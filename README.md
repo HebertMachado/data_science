@@ -14,7 +14,7 @@ Estudante de Sistema de Informação com objetivo de trabalhar com Data Science,
 **Links:**
 
 * [LinkedIn](www.linkedin.com/in/hebert-machado-2b9114187)
-*[Instagram](https://www.instagram.com/hebertmachado7)
+* [Instagram](https://www.instagram.com/hebertmachado7)
 
 
 ## Projetos:
