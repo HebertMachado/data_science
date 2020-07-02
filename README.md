@@ -18,7 +18,7 @@ Estudante de Sistema de Informação com objetivo de trabalhar com Data Science,
 
 
 ## Projetos:
-
+*[Violência no Rio de Janeiro](https://github.com/HebertMachado/data_science/blob/master/C%C3%B3pia_de_%5BTemplate%5D_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) 
 
 ---
 
