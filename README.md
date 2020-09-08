@@ -21,7 +21,7 @@ Estudante de Sistema de Informação com objetivo de trabalhar com Data Science,
 * [Violência no Rio de Janeiro](https://github.com/HebertMachado/data_science/blob/master/C%C3%B3pia_de_%5BTemplate%5D_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) 
 * [Projeto COVID - 19](https://github.com/HebertMachado/data_science/blob/master/Projeto_COVID_19.ipynb)
 * [Projeto Projeto Detecção de Fraudes em Cartões de Créditos](https://github.com/HebertMachado/data_science/blob/master/Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9ditos.ipynb)
-* [Churn Prediction para empresa de Telecomunicações](* [Violência no Rio de Janeiro](https://github.com/HebertMachado/data_science/blob/master/C%C3%B3pia_de_%5BTemplate%5D_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) ) 
+* [Churn Prediction para empresa de Telecomunicações](https://github.com/HebertMachado/data_science/blob/master/C%C3%B3pia_de_%5BTemplate%5D_Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb) ) 
 
 ---
 
