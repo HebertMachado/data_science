@@ -9,7 +9,7 @@
 
 Estudante de Sistema de Informação com objetivo de trabalhar com Data Science, e apaixonado pelo empreendedorismo.
 
-**Background in:** Python, Segurança do Trabalho.
+**Background in:** Python, SQL server, Analise de Dados.
 
 **Links:**
 
@@ -22,6 +22,7 @@ Estudante de Sistema de Informação com objetivo de trabalhar com Data Science,
 * [Projeto COVID - 19](https://github.com/HebertMachado/data_science/blob/master/Projeto_COVID_19.ipynb)
 * [Projeto Projeto Detecção de Fraudes em Cartões de Créditos](https://github.com/HebertMachado/data_science/blob/master/Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_Cart%C3%B5es_de_Cr%C3%A9ditos.ipynb)
 * [Churn Prediction para empresa de Telecomunicações](https://github.com/HebertMachado/data_science/blob/master/PROJETO_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb) 
+* [ Classificador de Fake News](https://github.com/HebertMachado/data_science/blob/master/[PROJETO]_Classificador_de_Fake_News.ipynb) 
 
 ---
 
