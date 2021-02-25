@@ -7,7 +7,7 @@
 # Hebert Machado
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Estudante de Sistema de Informação com objetivo de trabalhar com Data Science, e apaixonado pelo empreendedorismo.
+Formado em Técnico em Segurança do Trabalho, universitário cursando Sistemas de Informação na faculdade AEDB(Associação Educacional Dom Bosco). Atualmente sou estagiário na Indústrias Nucleares do Brasil na área de Tecnologia da Informação como desenvolvedor.
 
 **Background in:** Python, SQL server, Analise de Dados.
 
